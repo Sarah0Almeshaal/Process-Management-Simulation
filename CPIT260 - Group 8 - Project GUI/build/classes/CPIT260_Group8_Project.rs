@@ -1,0 +1,6 @@
+src.cpu_scheduling_project.CPIT260_Group8_Project
+src.cpu_scheduling_project.CPIT260_Group8_Project$1
+src.cpu_scheduling_project.CPIT260_Group8_Project$2
+src.cpu_scheduling_project.CPIT260_Group8_Project$3
+src.cpu_scheduling_project.CPIT260_Group8_Project$4
+src.cpu_scheduling_project.CPIT260_Group8_Project$5
